@@ -4,7 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 void main() {
   runApp(const PeduliLindungiApp());
 }
-
+// tes tambah komen
 class PeduliLindungiApp extends StatelessWidget {
   const PeduliLindungiApp({Key? key}) : super(key: key);
 
